@@ -35,7 +35,7 @@ complete argument specification.
 [types.PatchTarget]: https://github.com/kubernetes-sigs/kustomize/tree/master/api/types/patchtarget.go
 [image.Image]: https://github.com/kubernetes-sigs/kustomize/tree/master/api/types/image.go
 
-## _AnnotationTransformer_
+## _AnnotationsTransformer_
 
 ### Usage via `kustomization.yaml`
 
